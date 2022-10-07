@@ -1,0 +1,6 @@
+INDEX = "/"
+ADD_USER = "/api/add-user"
+GET_ALL_USERS = "/api/user"
+GET_SPECIFIC_USER = "/api/user/<id>"
+UPDATE_SPECIFIC_USER = "/api/user/<id>"
+DELETE_SPECIFIC_USER = "/api/user/<id>"
